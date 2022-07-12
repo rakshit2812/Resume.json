@@ -1,0 +1,111 @@
+{
+    "basics": {
+        "name": "Rakshit Gupta",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/105208973?s=400&u=7eec070b4fa126c8de646f4daf38207cefb21a50&v=4",
+        "email": "2021kuec2019@iiitkota.ac.in",
+        "phone": "+919310897212",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communications Engineering. Interested in Web development and a enthusiast competetive programmer.",
+        "location": {
+            "address": "Gurgaon",
+            "postalCode": "122001",
+            "city": "Gurgaon",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Rakshit51225079",
+                "url": "https://www.twitter.com/Rakshit51225079"
+            },
+            {
+                "network": "Github",
+                "username": "rakshit2812",
+                "url": "https://www.github.com/rakshit2812"
+            },
+            {
+                "network": "linkedin",
+                "username": "Rakshit Gupta",
+                "url": "https://www.linkedin.com/in/rakshit-gupta-3b59b822b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "rakshitgupta2812",
+                "url": "https://instagram.com/rakshitgupta2812"
+            }
+        ]
+    },
+    "work": [
+        
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.1",
+            "courses": [
+                "Electronics and communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+    
+    ],
+    "publications": [
+        {
+            "title": "Chef-Cuisine",
+            "details": "A website using Html and CSS",
+            "link": "https://rakshit2812.github.io/Chef-Cuisine/"
+        },
+        {
+            "title": "Assignment",
+            "details": "A website using Html and CSS.",
+            "link": "https://rakshit2812.github.io/Assignment/"
+        },
+        
+    ],
+    "skills": [
+        {
+            "name": "Student",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Git",
+                "C/C++",
+                "Python",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "sports",
+            "keywords": [
+                "Badminton"
+            ]
+        },
+        {
+            "name": "Fitness",
+            "keywords": [
+                "Gyming",
+            ]
+        }
+         {
+            "name": "Writing",
+            "keywords": [
+                "Poetries"
+            ]
+        }
+    ]
+}
